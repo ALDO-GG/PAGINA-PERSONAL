@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Juego de la vida</title>
-	<link rel="stylesheet" type="text/css" href="css/pagina_principal.css">
+	<link rel="stylesheet" type="text/css" href="css/index.css">
 </head>
 <body>
 
